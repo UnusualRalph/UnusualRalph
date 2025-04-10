@@ -7,7 +7,7 @@ Welcome to my GitHub space — where bits meet brilliance 🧠💻
 - 🌱 Always learning: compiler design, backend optimization, and new languages
 - 🛠️ From bare metal (MIPS, C, Rust) to the cloud (React, TypeScript, PostgreSQL)
 - 📬 Reach me at: rrothang@gmail.com
-- 🐙 [GitHub: rr-ralefaso](https://github.com/rr-ralefaso)
+- 🐙other github profile: [GitHub: rr-ralefaso](https://github.com/rr-ralefaso)
 - ⚡ Fun fact: I like my code like I like my milk — Allegic
 
 ---
