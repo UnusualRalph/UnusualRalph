@@ -1,5 +1,5 @@
 # Hey there! 👋 
-Welcome to my GitHub space — where bits meet brilliance 🧠💻
+Welcome to my GitHub space
 
 ## 🔍 About Me
 -
